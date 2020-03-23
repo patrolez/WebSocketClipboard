@@ -62,8 +62,6 @@ function setupServer() {
 
 
 					const mainSocket = new WebSocket("ws://" + window.location.host, "${clipProtocolToken}");
-					mainSocket.onopen = function (event) {
-					};
 					mainSocket.onmessage = function(event) {
 						const msg = event.data;
 						switch (msg) {
@@ -116,8 +114,7 @@ function setupServer() {
 			if (message.type === 'utf8') {
 				try {
 					const msg = message.utf8Data;
-					if(msg != reloadMessage)
-					{
+					if (msg != reloadMessage) {
 						clipboardValue = msg;
 						console.log(clipboardValue);
 						connections.forEach(function (tgt) {
