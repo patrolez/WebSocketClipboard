@@ -7,7 +7,7 @@ Much simpler than an app for chatting.
 
 1. Sharing things between PC and [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality/) browser where copy-pasting becomes much more convenient than typing within VR/AR by controllers.
 2. Just for learning and due to my laziness only UTF-8 strings are passed, so even "protocol" is simple.
-3. Might take a part as source for teaching someone about WebSockets.
+3. Might take a part as a source for teaching someone about WebSockets.
 
 ## Usage
 
