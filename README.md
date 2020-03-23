@@ -1,4 +1,4 @@
-# Simple NodeJS Clipboard sharing/sync app
+# Simple NodeJS WebSocket Clipboard sharing/sync app
 
 Just *hacky wanna-be* app to share textual data between all opened instances.
 Much simpler than an app for chatting.
@@ -19,7 +19,7 @@ Much simpler than an app for chatting.
 
 ## Everyone can dream
 
->I wish it to be a single file project (just like writting in `bash`/`python3`) without any extra project files.
+>I wish it to be a single file project (just like writting in `bash`/`python3`) without any extra project files, where an interpreter has rich standard library.
 
 >I wish the TypeScript to be the only JavaScript.
 
