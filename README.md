@@ -36,4 +36,4 @@ Maybe some day I would bundle it as a single file thing. Maybe as a single file 
 
 ## Recommended IDE
 
-* [VSCode](https://code.visualstudio.com/) + extension `lit-html` for HTML syntax highlighting within `.ts` file
+* [Free. VSCode](https://code.visualstudio.com/) + extension `lit-html` for HTML syntax highlighting within `.ts` file
