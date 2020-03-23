@@ -19,7 +19,7 @@ Much simpler than an app for chatting.
 
 ## Everyone can dream
 
->I wish it to be a single file project (just like writting in `bash`/`python3`) without any extra project files, where an interpreter has rich standard library.
+>I wish it to be a single file project (just like writting in `bash`) without any extra project files, where an interpreter has rich standard library.
 
 >I wish the TypeScript to be the only JavaScript.
 
