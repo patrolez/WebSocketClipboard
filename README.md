@@ -1,4 +1,4 @@
-# Simple NodeJS WebSocket Clipboard sharing/sync app
+# Simple NodeJS WebSocket Clipboard sharing/sync app/example
 
 Just *hacky wanna-be* app to share textual data between all opened instances.
 Much simpler than an app for chatting.
